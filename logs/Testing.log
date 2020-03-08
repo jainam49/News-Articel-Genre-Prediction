@@ -1,0 +1,149 @@
+2019-04-29 14:14:42,050, Testing, INFO, Received Following Length of Text: 1920
+2019-04-29 14:26:28,909, Testing, INFO, Received Text Input with the following length: 1920
+2019-04-29 14:27:18,885, Testing, INFO, Received Text Input with the following length: 1920
+2019-04-29 14:27:30,745, Testing, INFO, Received Text Input with the following length: 1920
+2019-04-29 15:28:05,620, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-29 15:28:05,621, Testing, INFO, BreakUpText Input Values: senOrWords: sen
+2019-04-29 15:28:05,648, Testing, INFO, Parsed text has a total of ['A great example of this is the 2008 power station shutdown in Italy that led to the failure of a communications network, causing another power station to go down and "triggering an electrical blackout affecting much of Italy."', '"When we think about a single network in isolation, we are missing so much of the context," says Raissa D’Souza, a physicist and engineer at the University of California, Davis.', '"We are going to make predictions that don’t match real systems."', 'Like their single-network counterparts, networks of networks show up everywhere.', 'By waking up in the morning, going to work and using your brain, you are connecting networks.', 'Same when you introduce a family member to a friend or send a message on Facebook that you also broadcast via Twitter.', 'In fact, anytime you access the Internet, which is supported by the power grid, which gets its instructions via communications networks, you are relying on interdependent systems.', 'And if your 401(k) lost value during the recent recession, you’re feeling the effects of such systems gone awry.', 'Findings so far suggest that networks of networks pose risks of catastrophic danger that can exceed the risks in isolated systems.', 'A seemingly benign disruption can generate rippling negative effects.', 'Those effects can cost millions of dollars, or even billions, when stock markets crash, half of India loses power or an Icelandic volcano spews ash into the sky, shutting down air travel and overwhelming hotels and rental car companies.', 'In other cases, failure within a network of networks can mean the difference between a minor disease outbreak or a pandemic, a foiled terrorist attack or one that kills thousands of people.', 'Understanding these life-and-death scenarios means abandoning some well-established ideas developed from single-network studies.', 'Scientists now know that networks of networks don’t always behave the way single networks do.'] Sentences
+2019-04-29 15:28:50,134, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-29 15:28:50,135, Testing, INFO, BreakUpText Input Values: senOrWords: sen
+2019-04-29 15:28:50,159, Testing, INFO, Parsed text has a total of ['A great example of this is the 2008 power station shutdown in Italy that led to the failure of a communications network, causing another power station to go down and "triggering an electrical blackout affecting much of Italy."', '"When we think about a single network in isolation, we are missing so much of the context," says Raissa D’Souza, a physicist and engineer at the University of California, Davis.', '"We are going to make predictions that don’t match real systems."', 'Like their single-network counterparts, networks of networks show up everywhere.', 'By waking up in the morning, going to work and using your brain, you are connecting networks.', 'Same when you introduce a family member to a friend or send a message on Facebook that you also broadcast via Twitter.', 'In fact, anytime you access the Internet, which is supported by the power grid, which gets its instructions via communications networks, you are relying on interdependent systems.', 'And if your 401(k) lost value during the recent recession, you’re feeling the effects of such systems gone awry.', 'Findings so far suggest that networks of networks pose risks of catastrophic danger that can exceed the risks in isolated systems.', 'A seemingly benign disruption can generate rippling negative effects.', 'Those effects can cost millions of dollars, or even billions, when stock markets crash, half of India loses power or an Icelandic volcano spews ash into the sky, shutting down air travel and overwhelming hotels and rental car companies.', 'In other cases, failure within a network of networks can mean the difference between a minor disease outbreak or a pandemic, a foiled terrorist attack or one that kills thousands of people.', 'Understanding these life-and-death scenarios means abandoning some well-established ideas developed from single-network studies.', 'Scientists now know that networks of networks don’t always behave the way single networks do.'] Sentences
+2019-04-29 15:29:38,711, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-29 15:29:38,711, Testing, INFO, BreakUpText Input Values: senOrWords: sen
+2019-04-29 15:29:38,735, Testing, INFO, Parsed text has a total of 14 Sentences
+2019-04-29 15:30:17,018, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-29 15:30:17,019, Testing, INFO, BreakUpText Input Values: senOrWords: both
+2019-04-29 15:30:17,041, Testing, INFO, Parsed text has a total of 14 Sentences
+2019-04-29 15:30:17,046, Testing, INFO, Number of Words in Each Sentences: ['Sentence 0, Words 42', 'Sentence 1, Words 37', 'Sentence 2, Words 14', 'Sentence 3, Words 12', 'Sentence 4, Words 20', 'Sentence 5, Words 23', 'Sentence 6, Words 32', 'Sentence 7, Words 24', 'Sentence 8, Words 22', 'Sentence 9, Words 10', 'Sentence 10, Words 44', 'Sentence 11, Words 35', 'Sentence 12, Words 14', 'Sentence 13, Words 16']
+2019-04-30 22:34:18,847, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-30 22:34:18,854, Testing, INFO, BreakUpText Input Values: senOrWords: both
+2019-04-30 22:36:27,248, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-30 22:36:27,248, Testing, INFO, BreakUpText Input Values: senOrWords: both
+2019-04-30 22:36:27,260, Testing, INFO, Parsed text has a total of 14 Sentences
+2019-04-30 22:36:27,277, Testing, INFO, Number of Words in Each Sentences: ['Sentence 0, Words 42', 'Sentence 1, Words 37', 'Sentence 2, Words 14', 'Sentence 3, Words 12', 'Sentence 4, Words 20', 'Sentence 5, Words 23', 'Sentence 6, Words 32', 'Sentence 7, Words 24', 'Sentence 8, Words 22', 'Sentence 9, Words 10', 'Sentence 10, Words 44', 'Sentence 11, Words 35', 'Sentence 12, Words 14', 'Sentence 13, Words 16']
+2019-04-30 22:38:42,747, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-30 22:38:42,747, Testing, INFO, BreakUpText Input Values: senOrWords: both
+2019-04-30 22:38:42,755, Testing, INFO, Parsed text has a total of 14 Sentences
+2019-04-30 22:38:42,755, Testing, INFO, Number of Words in Each Sentences: ['Sentence 0, Words 42', 'Sentence 1, Words 37', 'Sentence 2, Words 14', 'Sentence 3, Words 12', 'Sentence 4, Words 20', 'Sentence 5, Words 23', 'Sentence 6, Words 32', 'Sentence 7, Words 24', 'Sentence 8, Words 22', 'Sentence 9, Words 10', 'Sentence 10, Words 44', 'Sentence 11, Words 35', 'Sentence 12, Words 14', 'Sentence 13, Words 16']
+2019-04-30 22:38:42,768, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-04-30 22:41:09,261, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-30 22:41:09,262, Testing, INFO, BreakUpText Input Values: senOrWords: both
+2019-04-30 22:41:09,264, Testing, INFO, Parsed text has a total of 14 Sentences
+2019-04-30 22:41:09,264, Testing, INFO, Number of Words in Each Sentences: ['Sentence 0, Words 42', 'Sentence 1, Words 37', 'Sentence 2, Words 14', 'Sentence 3, Words 12', 'Sentence 4, Words 20', 'Sentence 5, Words 23', 'Sentence 6, Words 32', 'Sentence 7, Words 24', 'Sentence 8, Words 22', 'Sentence 9, Words 10', 'Sentence 10, Words 44', 'Sentence 11, Words 35', 'Sentence 12, Words 14', 'Sentence 13, Words 16']
+2019-04-30 22:41:09,264, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-04-30 22:41:09,275, Testing, INFO, Preprocessed List 14 records, Postprocess List 14 records 
+2019-04-30 22:41:55,172, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-30 22:41:55,172, Testing, INFO, BreakUpText Input Values: senOrWords: both
+2019-04-30 22:41:55,179, Testing, INFO, Parsed text has a total of 14 Sentences
+2019-04-30 22:41:55,187, Testing, INFO, Number of Words in Each Sentences: ['Sentence 0, Words 42', 'Sentence 1, Words 37', 'Sentence 2, Words 14', 'Sentence 3, Words 12', 'Sentence 4, Words 20', 'Sentence 5, Words 23', 'Sentence 6, Words 32', 'Sentence 7, Words 24', 'Sentence 8, Words 22', 'Sentence 9, Words 10', 'Sentence 10, Words 44', 'Sentence 11, Words 35', 'Sentence 12, Words 14', 'Sentence 13, Words 16']
+2019-04-30 22:41:55,190, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-04-30 22:41:55,191, Testing, INFO, Preprocessed List 14 records, Postprocess List 14 records 
+2019-04-30 22:43:27,847, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-04-30 22:43:27,847, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-04-30 22:43:27,860, Testing, INFO, Parsed text has a total of 345 Words
+2019-04-30 22:43:27,864, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-04-30 22:43:27,866, Testing, INFO, Preprocessed List 345 records, Postprocess List 197 records 
+2019-05-01 15:13:31,024, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 15:13:31,026, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 15:13:31,048, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 15:13:31,055, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 15:13:31,057, Testing, INFO, Preprocessed List 345 records, Postprocess List 187 records 
+2019-05-01 15:22:09,537, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 15:22:09,538, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 15:22:09,566, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 15:22:09,571, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 15:22:09,575, Testing, INFO, Preprocessed List 345 records, Postprocess List 187 records 
+2019-05-01 15:24:02,018, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 15:24:02,019, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 15:24:02,035, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 15:24:02,038, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 15:24:37,625, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 15:24:37,627, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 15:24:37,652, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 15:24:37,656, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 15:24:37,659, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:04:45,816, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:04:45,817, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:04:45,840, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:04:45,846, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:04:45,853, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:05:46,462, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:05:46,463, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:05:46,480, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:05:46,484, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:05:46,487, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:08:17,252, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:08:17,252, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:08:17,270, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:08:17,280, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:08:17,284, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:10:04,931, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:10:04,931, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:10:04,953, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:10:04,958, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:10:04,961, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:11:32,783, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:11:32,783, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:11:32,801, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:11:32,806, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:11:32,808, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:12:04,986, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:12:04,987, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:12:05,005, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:12:05,010, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:12:05,012, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:15:31,516, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:15:31,517, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:15:31,538, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:15:31,542, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:15:31,548, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:20:08,900, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:20:08,901, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:20:08,921, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:20:08,925, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:20:08,927, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:22:47,070, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 16:22:47,070, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 16:22:47,098, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 16:22:47,104, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 16:22:47,108, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 16:22:47,108, Testing, INFO, createNGrams, Number of ngrams created from list provided: 180
+2019-05-01 16:22:47,113, Testing, INFO, createNGrams, Total Sorted NGrams list 177
+2019-05-01 19:36:57,994, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 19:36:57,996, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 19:36:58,051, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 19:36:58,071, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 19:36:58,075, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 19:36:58,077, Testing, INFO, createNGrams, Number of ngrams created from list provided: 180
+2019-05-01 19:36:58,083, Testing, INFO, createNGrams, Total Sorted NGrams list 177
+2019-05-01 19:37:47,347, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 19:37:47,347, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 19:37:47,355, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 19:37:47,355, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 19:37:47,366, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 19:37:47,367, Testing, INFO, createNGrams, Number of ngrams created from list provided: 180
+2019-05-01 19:37:47,368, Testing, INFO, createNGrams, Total Sorted NGrams list 177
+2019-05-01 19:40:11,875, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 19:40:11,875, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 19:40:11,903, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 19:40:11,909, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 19:40:11,912, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 19:40:11,913, Testing, INFO, createNGrams, Number of ngrams created from list provided: 180
+2019-05-01 19:40:11,916, Testing, INFO, createNGrams, Total Sorted NGrams list 177
+2019-05-01 19:40:11,921, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 19:40:11,921, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 19:40:11,925, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 19:40:11,929, Testing, INFO, createNGrams, Number of ngrams created from list provided: 344
+2019-05-01 19:40:11,937, Testing, INFO, createNGrams, Total Sorted NGrams list 326
+2019-05-01 19:40:47,212, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 19:40:47,212, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 19:40:47,220, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 19:40:47,232, Testing, DEBUG, Length of stopwords 179, Length of Punctuation 32
+2019-05-01 19:40:47,234, Testing, INFO, Preprocessed List 345 records, Postprocess List 181 records 
+2019-05-01 19:40:47,235, Testing, INFO, createNGrams, Number of ngrams created from list provided: 180
+2019-05-01 19:40:47,236, Testing, INFO, createNGrams, Total Sorted NGrams list 177
+2019-05-01 19:40:47,240, Testing, INFO, Received Text Input with the following length in Characters: 1920
+2019-05-01 19:40:47,240, Testing, INFO, BreakUpText Input Values: senOrWords: words
+2019-05-01 19:40:47,242, Testing, INFO, Parsed text has a total of 345 Words
+2019-05-01 19:40:47,244, Testing, INFO, createNGrams, Number of ngrams created from list provided: 344
+2019-05-01 19:40:47,245, Testing, INFO, createNGrams, Total Sorted NGrams list 326
