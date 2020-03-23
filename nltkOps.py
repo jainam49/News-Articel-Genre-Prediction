@@ -1,5 +1,5 @@
 #################################################################################################
-# Khuram Chughtai
+# Jainam Sheth
 # NLTK Functions for ML Learning
 # NLTK GEN Operations Module
 
