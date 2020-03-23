@@ -1,5 +1,5 @@
 #########################################################################
-# Khuram Chughtai
+# Jainam Sheth
 # Web Mining Class
 # Exploring all-the-news Dataset
 # https://www.kaggle.com/snapcrack/all-the-news/version/4#_=_
