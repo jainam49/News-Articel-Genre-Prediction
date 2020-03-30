@@ -106,7 +106,7 @@ gridsearchLREG.fit(counts_train,labels_train)
 #VT.fit(counts_train,labels_train)
 
 
-#use the VT classifier to predict
+#use the VT classifier to predict 
 pred=VT.predict(counts_test)
 
 #use hard voting to predict (majority voting)
