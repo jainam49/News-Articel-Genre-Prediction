@@ -83,7 +83,7 @@ class DataPrep:
 		if stdOutput == True:			# If the Output 
 			consoleHandler = logging.StreamHandler()
 			consoleHandler.setFormatter(logging.Formatter('%(asctime)s, %(name)s, %(levelname)s, %(message)s'))
-			mylog.addHandler(consoleHandler)
+			mylog.addHandler(consoleHandler) 
 		mylog.setLevel(logging.DEBUG)
 		return mylog
 
