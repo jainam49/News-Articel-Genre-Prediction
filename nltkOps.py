@@ -8,7 +8,7 @@ import os			# Used for Operating System Specific Commands
 import logging		# Used for Logging Purposes to help keep track of issues
 import nltk			# Overall encompassing Library for NLTK functions
 # Imports Needed for the BreakUpText Function
-# These Functions are used to Divide up by either sentence or text given any input string
+# These Functions are used to Divide up by either sentence or text given any input string 
 from nltk.tokenize import word_tokenize, sent_tokenize
 # Imports Needed for the removeStopWords Function 
 from nltk.corpus import stopwords 	# Includes list of stop words like [a, the, etc]
