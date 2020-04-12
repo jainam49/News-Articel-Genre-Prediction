@@ -1,1 +1,1 @@
-This project aims at tracking the auhtor of any publication base don the keywords and leveraging various machine learning models.
+This project aims at tracking the auhtor of any publication based on the keywords and leveraging various machine learning models.
