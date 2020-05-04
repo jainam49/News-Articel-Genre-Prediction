@@ -8,7 +8,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
 from sklearn.neighbors import KNeighborsClassifier
 #from sklearn.grid_search import GridSearchCV
-from sklearn.svm import SVC
+from sklearn.svm import SVC  
 from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import VotingClassifier
 from sklearn.linear_model import LogisticRegression
