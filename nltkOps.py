@@ -10,7 +10,7 @@ import nltk			# Overall encompassing Library for NLTK functions
 # Imports Needed for the BreakUpText Function
 # These Functions are used to Divide up by either sentence or text given any input string 
 from nltk.tokenize import word_tokenize, sent_tokenize
-# Imports Needed for the removeStopWords Function 
+# Imports Needed for the removeStopWords Function  
 from nltk.corpus import stopwords 	# Includes list of stop words like [a, the, etc]
 from string import punctuation		# Includes all known punctuation for english language to help clean tokenized data
 # For Creating the N Grams counter
