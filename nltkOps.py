@@ -5,7 +5,7 @@
 
 # Library Imports
 import os			# Used for Operating System Specific Commands
-import logging		# Used for Logging Purposes to help keep track of issues
+import logging		# Used for Logging Purposes to help keep track of issues  
 import nltk			# Overall encompassing Library for NLTK functions
 # Imports Needed for the BreakUpText Function
 # These Functions are used to Divide up by either sentence or text given any input string 
